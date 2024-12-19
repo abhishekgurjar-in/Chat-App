@@ -43,7 +43,7 @@ Make sure you have the following installed:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekgurjar-in/chit-chat.git
+    git clone https://github.com/abhishekboadgurjar/chit-chat.git
     cd chit-chat
     ```
 
@@ -101,5 +101,5 @@ Contributions are welcome! To contribute:
 
 For questions, feedback, or collaboration:
 - **Author**: Abhishek Gurjar
-- **GitHub**: [abhishekgurjar-in](https://github.com/abhishekgurjar-in)
+- **GitHub**: [abhishekboadgurjar](https://github.com/abhishekboadgurjar)
 
