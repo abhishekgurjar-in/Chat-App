@@ -99,6 +99,5 @@ Contributions are welcome! To contribute:
 ## 💬 Contact
 
 For questions, feedback, or collaboration:
-- **Author**: Abhishek Gurjar
 - **GitHub**: [abhishekboadgurjar](https://github.com/abhishekboadgurjar)
 
